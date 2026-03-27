@@ -22,7 +22,7 @@ El programa presenta al usuario una lista de estaciones de tm y el usuario tendr
 
 Es un programa basico para la implementacion de nodos y busqueda, así como tambien algorimo a* y heuristica que es algo fundamental en iA
 
-##Nota
+## Nota
 Se implemento el uso de herramientas de IA para solucionar errores, corregir y organizar el codigo, sin embargo todo está limpiamente construido con conocimientos vistos en clase, investigados y revisados en las bibliografías
 
 ##Autor
