@@ -25,5 +25,5 @@ Es un programa basico para la implementacion de nodos y busqueda, así como tamb
 ## Nota
 Se implemento el uso de herramientas de IA para solucionar errores, corregir y organizar el codigo, sin embargo todo está limpiamente construido con conocimientos vistos en clase, investigados y revisados en las bibliografías
 
-##Autor
+## Autor
 Oscar Hernandez
